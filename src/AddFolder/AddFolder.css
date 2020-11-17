@@ -1,0 +1,25 @@
+.AddFolder__form {
+    background-color: #081627;
+    color: #bdbdbd;
+    font-family: var(--custom-font);
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    box-shadow:  #000000 5px 5px;
+    border-radius: 5%;
+}
+
+hr {
+    color: grey;
+    width: 100%;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form__buttons {
+    background-color: #0f2644;
+}
